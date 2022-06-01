@@ -5,4 +5,4 @@
 5. React
 6. React
 7. Python
-8. PHP
+8. PHP.
